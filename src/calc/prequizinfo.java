@@ -20,7 +20,7 @@ public class prequizinfo extends javax.swing.JFrame {
          try {
              this.userid=userid;
              this.key=key;
-             Socket socket=new Socket("192.168.0.4",5408);
+             Socket socket=new Socket("localhost",5408);
              message(socket);
          } catch (IOException ex) {
              Logger.getLogger(prequizinfo.class.getName()).log(Level.SEVERE, null, ex);
