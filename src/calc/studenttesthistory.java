@@ -96,7 +96,7 @@ public class studenttesthistory extends javax.swing.JFrame {
 
     private void getresultActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_getresultActionPerformed
  try {
-            Socket socket = new Socket("192.168.0.4", 5413);
+            Socket socket = new Socket("localhost", 5413);
             sendMessage1(socket);
         } catch (IOException e)
         {   e.printStackTrace();
