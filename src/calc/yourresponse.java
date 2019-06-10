@@ -11,21 +11,21 @@ public class yourresponse extends javax.swing.JFrame {
     public void Show()
     {
         int i;
-           one.setText("1   "+res[0]+"   "+ans[0]);
-           two.setText("2   "+res[1]+"   "+ans[1]);
-           three.setText("3   "+res[2]+"   "+ans[2]);
-           four.setText("4   "+res[3]+"   "+ans[3]);
-           five.setText("5   "+res[4]+"   "+ans[4]);
-           six.setText("6   "+res[5]+"   "+ans[5]);
-           seven.setText("7   "+res[6]+"   "+ans[6]);
-           eight.setText("8   "+res[7]+"   "+ans[7]);
-           nine.setText("9   "+res[8]+"   "+ans[8]);
-           ten.setText("10   "+res[9]+"   "+ans[9]);
-           eleven.setText("11   "+res[10]+"   "+ans[10]);
-           twelve.setText("12   "+res[11]+"   "+ans[11]);
-           thirteen.setText("13   "+res[12]+"   "+ans[12]);
-           fourteen.setText("14   "+res[13]+"   "+ans[13]);
-           fifteen.setText("15   "+res[14]+"   "+ans[14]);
+           one.setText("1                      "+res[0]+"                       "+ans[0]);
+           two.setText("2                      "+res[1]+"                       "+ans[1]);
+           three.setText("3                      "+res[2]+"                       "+ans[2]);
+           four.setText("4                      "+res[3]+"                       "+ans[3]);
+           five.setText("5                      "+res[4]+"                       "+ans[4]);
+           six.setText("6                      "+res[5]+"                       "+ans[5]);
+           seven.setText("7                      "+res[6]+"                       "+ans[6]);
+           eight.setText("8                      "+res[7]+"                       "+ans[7]);
+           nine.setText("9                      "+res[8]+"                       "+ans[8]);
+           ten.setText("10                      "+res[9]+"                       "+ans[9]);
+           eleven.setText("11                      "+res[10]+"                       "+ans[10]);
+           twelve.setText("12                      "+res[11]+"                       "+ans[11]);
+           thirteen.setText("13                      "+res[12]+"                       "+ans[12]);
+           fourteen.setText("14                      "+res[13]+"                       "+ans[13]);
+           fifteen.setText("15                      "+res[14]+"                       "+ans[14]);
     }
         
     
